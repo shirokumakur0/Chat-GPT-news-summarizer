@@ -10,14 +10,14 @@ Code for an automatic news summarizer with ChatGPT. This is a class assignment f
 
 1. Create a 'config.yaml' file and store the following information:
    
--- chatgpt_key: [chat-gpt-api-key](https://platform.openai.com/docs/api-reference/introduction)
+- chatgpt_key: [chat-gpt-api-key](https://platform.openai.com/docs/api-reference/introduction)
 
--- slack_token: [slack-bot-token](https://api.slack.com/concepts/token-types#bot)
+- slack_token: [slack-bot-token](https://api.slack.com/concepts/token-types#bot)
 
--- slack_id: [bot's-member-ID](https://api.slack.com/methods/users.identity)
+- slack_id: [bot's-member-ID](https://api.slack.com/methods/users.identity)
 
--- app_token: [slack-event-api-key](https://api.slack.com/apis/events-api)
+- app_token: [slack-event-api-key](https://api.slack.com/apis/events-api)
 
--- slack_channel: slack channel name to send message
+- slack_channel: slack channel name to send message
 
 1. Expose the local PC's web server to the outside by using [ngrok](https://ngrok.com/).
