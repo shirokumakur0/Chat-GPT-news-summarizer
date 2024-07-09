@@ -20,4 +20,4 @@ Code for an automatic news summarizer with ChatGPT. This is a class assignment f
 
 - slack_channel: slack channel name to send message
 
-1. Expose the local PC's web server to the outside by using [ngrok](https://ngrok.com/).
+2. Expose the local PC's web server to the outside by using [ngrok](https://ngrok.com/).
