@@ -1,0 +1,7 @@
+config.yaml
+legacy/
+goo_crawling.py
+goo_news.csv
+yahoo_crawling.py
+yahoo_news.csv
+chatgpt.py
