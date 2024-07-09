@@ -90,7 +90,6 @@ with open(file_path, 'r', encoding='utf-8') as file:
     text_goo = file.read()
 
 text = text_yahoo + text_goo
-# print(text)
 
 from openai import OpenAI
 client = OpenAI(api_key=chatgpt_key)
